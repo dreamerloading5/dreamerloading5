@@ -4,7 +4,7 @@
 
 
 To run this project command to follow:
-cd my-java-project
-mvn compile
-java -cp target/classes/ Main output.txt
-cat output.txt (to view the output)
+- cd my-java-project
+- mvn compile
+- java -cp target/classes/ Main output.txt
+- cat output.txt (to view the output)
